@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leccion3", "Leccion3\Leccion3.csproj", "{7A8AB119-2BC9-4FEB-B542-8CAB7DDAF352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores", "Operadores\Operadores.csproj", "{0996DC9E-8388-45A0-87DB-69876ACCB999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A8AB119-2BC9-4FEB-B542-8CAB7DDAF352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8AB119-2BC9-4FEB-B542-8CAB7DDAF352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8AB119-2BC9-4FEB-B542-8CAB7DDAF352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8AB119-2BC9-4FEB-B542-8CAB7DDAF352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0996DC9E-8388-45A0-87DB-69876ACCB999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0996DC9E-8388-45A0-87DB-69876ACCB999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0996DC9E-8388-45A0-87DB-69876ACCB999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0996DC9E-8388-45A0-87DB-69876ACCB999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

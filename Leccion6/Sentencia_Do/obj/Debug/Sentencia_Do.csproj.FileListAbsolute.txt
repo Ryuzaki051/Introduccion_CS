@@ -1,0 +1,5 @@
+D:\ics\Leccion6\Sentencia_Do\bin\Debug\Sentencia_Do.exe.config
+D:\ics\Leccion6\Sentencia_Do\bin\Debug\Sentencia_Do.exe
+D:\ics\Leccion6\Sentencia_Do\bin\Debug\Sentencia_Do.pdb
+D:\ics\Leccion6\Sentencia_Do\obj\Debug\Sentencia_Do.exe
+D:\ics\Leccion6\Sentencia_Do\obj\Debug\Sentencia_Do.pdb

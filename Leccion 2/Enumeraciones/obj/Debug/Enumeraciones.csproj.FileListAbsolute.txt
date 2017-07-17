@@ -1,0 +1,5 @@
+D:\ics\Leccion 2\Enumeraciones\bin\Debug\Enumeraciones.exe.config
+D:\ics\Leccion 2\Enumeraciones\bin\Debug\Enumeraciones.exe
+D:\ics\Leccion 2\Enumeraciones\bin\Debug\Enumeraciones.pdb
+D:\ics\Leccion 2\Enumeraciones\obj\Debug\Enumeraciones.exe
+D:\ics\Leccion 2\Enumeraciones\obj\Debug\Enumeraciones.pdb

@@ -1,0 +1,7 @@
+D:\ics\Leccion6\Sentencia_For\bin\Debug\Sentencia_For.exe.config
+D:\ics\Leccion6\Sentencia_For\bin\Debug\Sentencia_For.exe
+D:\ics\Leccion6\Sentencia_For\bin\Debug\Sentencia_For.pdb
+D:\ics\Leccion6\Sentencia_For\obj\Debug\Sentencia_For.exe
+D:\ics\Leccion6\Sentencia_For\obj\Debug\Sentencia_For.pdb
+D:\ics\Leccion6\Sentencia_For\bin\Debug\Sentencia_For.exe.CodeAnalysisLog.xml
+D:\ics\Leccion6\Sentencia_For\bin\Debug\Sentencia_For.exe.lastcodeanalysissucceeded

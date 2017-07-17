@@ -1,0 +1,6 @@
+D:\ics\IntroCS\IntroCS\bin\Debug\IntroCS.exe.config
+D:\ics\IntroCS\IntroCS\bin\Debug\IntroCS.exe
+D:\ics\IntroCS\IntroCS\bin\Debug\IntroCS.pdb
+D:\ics\IntroCS\IntroCS\obj\Debug\IntroCS.csprojResolveAssemblyReference.cache
+D:\ics\IntroCS\IntroCS\obj\Debug\IntroCS.exe
+D:\ics\IntroCS\IntroCS\obj\Debug\IntroCS.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo</name>
+    </assembly>
+    <members>
+        <member name="T:Demo.Operaciones">
+            <summary>
+            Esta clase permite realizar operaciones matematicas
+            </summary>
+        </member>
+        <member name="M:Demo.Operaciones.Sumar(System.Int32,System.Int32)">
+            <summary>
+            Este metodo permite sumar dos numeros enteros
+            </summary>
+            <param name="A">Primer Operando entero</param>
+            <param name="B">Segundo Operando entero</param>
+            <returns>Devuelve un entero que representa la suma de A y B</returns>
+        </member>
+    </members>
+</doc>

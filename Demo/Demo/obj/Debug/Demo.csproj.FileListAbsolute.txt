@@ -1,0 +1,5 @@
+D:\ics\Demo\Demo\bin\Debug\Demo.dll
+D:\ics\Demo\Demo\bin\Debug\Demo.pdb
+D:\ics\Demo\Demo\obj\Debug\Demo.dll
+D:\ics\Demo\Demo\obj\Debug\Demo.pdb
+D:\ics\Demo\Demo\bin\Debug\Demo.XML

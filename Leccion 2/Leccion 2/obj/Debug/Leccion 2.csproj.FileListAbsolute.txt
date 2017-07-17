@@ -1,0 +1,6 @@
+D:\ics\Leccion 2\Leccion 2\bin\Debug\Leccion 2.exe.config
+D:\ics\Leccion 2\Leccion 2\bin\Debug\Leccion 2.exe
+D:\ics\Leccion 2\Leccion 2\bin\Debug\Leccion 2.pdb
+D:\ics\Leccion 2\Leccion 2\obj\Debug\Leccion 2.csprojResolveAssemblyReference.cache
+D:\ics\Leccion 2\Leccion 2\obj\Debug\Leccion 2.exe
+D:\ics\Leccion 2\Leccion 2\obj\Debug\Leccion 2.pdb
